@@ -1,0 +1,2 @@
+CustomerOSRSystem_c,CustomerOSR_c,EBS BackOrders Name,Sales Order Number,Customer PO#,Aging,Ship-to Location,Product Description,Product Family,Service Level,Fill Rate %,Estimated availability,Market Segment,Total Value,Original Promise to Deliver Date,Customer’s Allocation,Currency Code,Item Number,Order Status,Quantity,Unit Price,Delivery Status
+EBS,PN58816,Backorder001,832482,1465343,,"801 WEST ARTESIA BLVD,CA,US","14"" (36 cm) Appx 0.48 ml, Smallbore Ext Set, Clamp, Rotating Luer",,,17.5,,,38775,,,USD,1040,BOOKED,33,23.5,BACKORDER
